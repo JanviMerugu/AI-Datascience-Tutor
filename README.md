@@ -33,5 +33,5 @@ This is an **AI-powered conversational tutor** designed to answer **only data sc
 ---
 
 ## 🔗 **Live Demo**  
-👉 Click here to try the AI Data Science Tutor:
+👉 Click here to try the AI Data Science Tutor:  https://ai-datascience-tutor01.streamlit.app/
 
